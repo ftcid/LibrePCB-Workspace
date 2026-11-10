@@ -1,0 +1,10 @@
+(librepcb_component_category c9fe47f4-416a-481b-b9df-6a0075f04f7d
+ (name "Transistors Dwl")
+ (description "")
+ (keywords "")
+ (author "Afuerno")
+ (version "0.1")
+ (created 2024-12-03T20:59:00Z)
+ (deprecated false)
+ (parent none)
+)

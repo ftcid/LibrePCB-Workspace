@@ -1,0 +1,11 @@
+(librepcb_symbol ae7acac2-b8e3-4d3c-b7d9-139d22de1b68
+ (name "SI2333CDS")
+ (description "")
+ (keywords "")
+ (author "Afuerno")
+ (version "0.1")
+ (created 2024-12-03T21:02:17Z)
+ (deprecated false)
+ (generated_by "")
+ (category c9fe47f4-416a-481b-b9df-6a0075f04f7d)
+)

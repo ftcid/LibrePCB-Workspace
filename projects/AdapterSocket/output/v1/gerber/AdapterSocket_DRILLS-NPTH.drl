@@ -1,0 +1,15 @@
+M48
+; #@! TF.GenerationSoftware,LibrePCB,LibrePCB,1.2.0
+; #@! TF.CreationDate,2024-12-25T12:10:40
+; #@! TF.ProjectId,AdapterSocket,cbaf2520-6ed1-41d9-9501-aa6216e956c1,v1
+; #@! TF.Part,Single
+; #@! TF.SameCoordinates
+; #@! TF.FileFunction,NonPlated,1,2,NPTH
+FMAT,2
+METRIC,TZ
+%
+G90
+G05
+M71
+T0
+M30

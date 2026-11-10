@@ -1,0 +1,10 @@
+(librepcb_component_category bb35758b-3f64-43c2-b20c-2448fd91f0fc
+ (name "Step Down Modules")
+ (description "")
+ (keywords "")
+ (author "Afuerno")
+ (version "0.1")
+ (created 2024-11-27T21:07:24Z)
+ (deprecated false)
+ (parent none)
+)

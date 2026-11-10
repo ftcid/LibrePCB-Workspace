@@ -1,0 +1,12 @@
+(librepcb_device 5d172215-0012-4fff-8bab-f535a209a569
+ (name "4 Relay Module HW-316")
+ (description "")
+ (keywords "")
+ (author "Afuerno")
+ (version "0.1")
+ (created 2024-12-05T20:58:52Z)
+ (deprecated false)
+ (generated_by "")
+ (component 7080b1d5-4087-4d8b-b6c7-2892eec2da14)
+ (package a19df11f-146c-4bfe-9d2e-e0ab27e58c54)
+)

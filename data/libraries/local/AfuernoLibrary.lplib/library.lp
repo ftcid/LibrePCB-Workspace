@@ -1,0 +1,11 @@
+(librepcb_library 6a14db83-6984-48bd-b7f1-7510b235136b
+ (name "AfuernoLibrary")
+ (description "New Library")
+ (keywords "")
+ (author "Afuerno")
+ (version "0.1")
+ (created 2024-11-03T20:17:50Z)
+ (deprecated false)
+ (url "")
+ (manufacturer "")
+)

@@ -1,0 +1,10 @@
+(librepcb_component_category b4f05607-8715-4126-9ed7-7bfb13be8142
+ (name "Relays")
+ (description "")
+ (keywords "")
+ (author "Afuerno")
+ (version "0.1")
+ (created 2024-11-29T14:22:14Z)
+ (deprecated false)
+ (parent none)
+)
